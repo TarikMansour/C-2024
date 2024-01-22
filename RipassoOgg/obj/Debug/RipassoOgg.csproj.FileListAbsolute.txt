@@ -1,0 +1,15 @@
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\bin\Debug\RipassoOgg.exe.config
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\bin\Debug\RipassoOgg.exe
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\bin\Debug\RipassoOgg.pdb
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.csproj.AssemblyReference.cache
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.exe
+C:\Users\Tarik Mansour\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.pdb
+C:\Users\studente\Desktop\RipassoOgg\RipassoOgg\bin\Debug\RipassoOgg.exe.config
+C:\Users\studente\Desktop\RipassoOgg\RipassoOgg\bin\Debug\RipassoOgg.exe
+C:\Users\studente\Desktop\RipassoOgg\RipassoOgg\bin\Debug\RipassoOgg.pdb
+C:\Users\studente\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.exe
+C:\Users\studente\Desktop\RipassoOgg\RipassoOgg\obj\Debug\RipassoOgg.pdb
