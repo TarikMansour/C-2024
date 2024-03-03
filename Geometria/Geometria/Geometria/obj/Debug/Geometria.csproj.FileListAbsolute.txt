@@ -1,0 +1,21 @@
+C:\Users\studente\Desktop\Geometria\Geometria\bin\Debug\Geometria.exe.config
+C:\Users\studente\Desktop\Geometria\Geometria\bin\Debug\Geometria.exe
+C:\Users\studente\Desktop\Geometria\Geometria\bin\Debug\Geometria.pdb
+C:\Users\studente\Desktop\Geometria\Geometria\obj\Debug\Geometria.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\Geometria\Geometria\obj\Debug\Geometria.Form1.resources
+C:\Users\studente\Desktop\Geometria\Geometria\obj\Debug\Geometria.Properties.Resources.resources
+C:\Users\studente\Desktop\Geometria\Geometria\obj\Debug\Geometria.csproj.GenerateResource.cache
+C:\Users\studente\Desktop\Geometria\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\Geometria\Geometria\obj\Debug\Geometria.exe
+C:\Users\studente\Desktop\Geometria\Geometria\obj\Debug\Geometria.pdb
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\bin\Debug\Geometria.exe.config
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\bin\Debug\Geometria.exe
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\bin\Debug\Geometria.pdb
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.csproj.AssemblyReference.cache
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.Form1.resources
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.Properties.Resources.resources
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.csproj.GenerateResource.cache
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.exe
+C:\Users\Tarik Mansour\Desktop\Geometria-20240229T193744Z-001\Geometria\Geometria\obj\Debug\Geometria.pdb
