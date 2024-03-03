@@ -1,0 +1,11 @@
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\bin\Debug\AppStudentPerson.exe.config
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\bin\Debug\AppStudentPerson.exe
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\bin\Debug\AppStudentPerson.pdb
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.csproj.AssemblyReference.cache
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.Form1.resources
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.Properties.Resources.resources
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.csproj.GenerateResource.cache
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.exe
+C:\Users\Tarik Mansour\Desktop\AppStudentPerson\AppStudentPerson\obj\Debug\AppStudentPerson.pdb
